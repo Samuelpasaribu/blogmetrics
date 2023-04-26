@@ -1,5 +1,5 @@
-# publish
+# Publish
 https://cdn.jsdelivr.net/gh/samuelpasaribu/blogmetrics/samuelpasaribu.com.js
 
-# localhost
+# Localhost
 http://localhost/tools/js/encrypt.js
