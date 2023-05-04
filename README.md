@@ -5,6 +5,6 @@ https://cdn.jsdelivr.net/gh/samuelpasaribu/blogmetrics/anonymous.js
 localhost/tools/js/encrypt.js
 
 # Demo
-<li><a href="https://www.samuelpasaribu.com/2023/04/cara-mudah-mengetahui-jumlah-posting.html">Lihat Demo</a></li>
+<li><a href="https://www.samuelpasaribu.com/p/blog-metrics.html">Lihat Demo</a></li>
 <br>
-<li><a href="https://www.samuelpasaribu.com/2023/04/cara-mengetahui-jumlah-posting.html">Docs</a></li>
+<li><a href="https://www.samuelpasaribu.com/2023/04/cara-mudah-mengetahui-jumlah-posting.html">Docs</a></li>
